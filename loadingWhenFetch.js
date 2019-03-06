@@ -1,1 +1,1 @@
-console.log("loading when fetch")
+console.log("loading when fetch");
